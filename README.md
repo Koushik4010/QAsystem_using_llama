@@ -10,6 +10,4 @@ This project demonstrates a question-answering (QA) system for processing large 
 
 **Requirements:**
 
-* Python 3.x (Recommended: Use a virtual environment)
-* `transformers` library (`pip install transformers`)
-* Additional dependencies may be required (refer to project code)
+* Install dependencies: `pip install -r requirements.txt`
